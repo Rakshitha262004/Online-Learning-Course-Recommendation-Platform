@@ -212,17 +212,19 @@ Example:
 
 ---
 
-# 📸 Screenshots to Add
+# 📸 Screenshots 
 
-* Home Page
-* Register Page
-* Login Page
-* Dashboard
-* Recommended Courses
-* Course Listing
-* Enrolled Courses
-* MongoDB Collections
-* API Testing in Postman
+ ### Registration ![Registration](outputs/online_rg.png)  ### Login Page ![Login](outputs/online_lg.png) ### Dashboard ![Dashboard](outputs/online_db.png)
+
+
+---
+
+🎥 Project Demo Video
+📌 Watch Full Project Demo
+
+Google Drive Video Link:
+
+[https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1HHPVOFciThEHx8dltnPZAud9RrqF2CLA/view?usp=drivesdk)
 
 ---
 
